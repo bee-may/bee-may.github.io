@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+            background-color: rgb(100, 100, 120);
+            color: rgb(255, 255, 255);
+        }
+        
+        a {
+            color:rgb(200, 200, 255);
+        }
+        
+        #honey-pizza {
+            color: rgb(255, 200, 0);
+        }
+        
+        #rosemary-chicken {
+            color: rgb(0, 255, 120);
+        }
+        
+        #coffee {
+            color: rgb(200, 160, 0);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Beth's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#honey-pizza">Goat Cheese and Honey Pizza</a></li>
+            <li><a href="#rosemary-chicken">Rosemary Chicken Breast</a></li>
+            <li><a href="#coffee">Iced Coffee</a></li>
+        </ol>
+        
+        <h2 id="honey-pizza">Goat Cheese and Honey Pizza</h2>
+        <!-- Source: this one time, I had a pizza like this in Paris, and it was totally delicious, so I made it again at home. Except by "I", I mean my BF. Also, the one in France had an egg on it, and I do not do that at home. -->
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kartoffel_pizza_%28with_border%29.jpg/332px-Kartoffel_pizza_%28with_border%29.jpg" alt="This is definitely not my pizza" width="300">
+        
+        <ul>
+            <li>Time: 3 hours total</li>
+            <li>Serves: 8 slices</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pizza Dough</td>
+                    <td>Enough</td>
+                </tr>
+                <tr>
+                    <td>Goat cheese</td>
+                    <td>Small log</td>
+                </tr>
+                <tr>
+                    <td>Sweet onion</td>
+                    <td>One</td>
+                </tr>
+                <tr>
+                    <td>Honey</td>
+                    <td>Plenty</td>
+                </tr>
+                <tr>
+                    <td>Arugula</td>
+                    <td>Small bunch</td>
+                </tr>
+                <tr>
+                    <td>Butter or oil</td>
+                    <td>2 Tbsp, for onions</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Make dough.
+</p>
+
+        <p><strong>Step 2:</strong> Pre-cook dough, most of the way through. Meanwhile, chop and carmelize onions on stovetop using butter/oil. 
+</p>
+
+        <p><strong>Step 3:</strong> Top with crubmled goat cheese, stir fried onions, and honey.
+</p>
+
+        <p><strong>Step 4:</strong> Cook until done. Just before finishing, pull out and top with arugula. Place in oven just until arugula wilts. Remove, allow to cool somewhat before cutting and serving.
+</p>
+    
+    <h2 id="rosemary-chicken">Rosemary Chicken Breast</h2>
+        
+        <!-- One of the only things I can actually cook, and I haven't made it in years, so IDK what any of the ingredient amounts are. Cheers!-->
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RecipeoftheMonth_Dec_SJ_%2811301040564%29.jpg/200px-RecipeoftheMonth_Dec_SJ_%2811301040564%29.jpg" alt="Not actually the chicken that I made" width="300">
+        
+        <ul>
+            <li>Time: 45 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Chicken breast</td>
+                    <td>Like, 4 or so</td>
+                </tr>
+                <tr>
+                    <td>Heavy cream</td>
+                    <td>About a cup?</td>
+                </tr>
+                <tr>
+                    <td>Rosemary</td>
+                    <td>Lots</td>
+                </tr>
+                <tr>
+                    <td>Couscous</td>
+                    <td>Box</td>
+                </tr>
+                <tr>
+                    <td>Salt, pepper, oil</td>
+                    <td>Enough</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Pretty sure you start by trimming the chicken, which is the worst.
+</p>
+
+        <p> <strong>Step 2:</strong> Then I guess you probably cook it on the stovetop? Oil, salt, pepper, add the rosemary?</p>
+        
+        <p><strong>Step 3:</strong> When it's almost done, add the cream into the pan. You probably should have started the couscous on another burner by now, BTW. Finish cooking the chicken.
+        </p>
+
+        <p>
+            <strong>Step 4:</strong> Finish the couscous and put it in a shallow bowl or on a plate, I guess. Spoon some of the cream over the top, and place a chicken breast on it.
+        </p>
+        
+        <p>
+            <strong>Step 5:</strong> Okay, so, I'm pretty sure I'm forgetting some of the ingredients and at least some of the steps, but... c'est la vie.
+        </p>
+        
+        <h2 id="coffee">Iced Coffee</h2>
+        
+        <!-- Remember how I said I can't cook? This is what I'm reduced to.-->
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg/330px-Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg" alt="Not actually <em>my</em> iced coffee, but I'm pretty sure it all looks the same" width="300">
+        
+        <ul>
+            <li>Time: 8+ hours</li>
+            <li>Serves: 3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Coffee grounds</td>
+                    <td>1.75 oz</td>
+                </tr>
+                <tr>
+                    <td>Water</td>
+                    <td>3-4 cups</td>
+                </tr>
+                <tr>
+                    <td>Creamer</td>
+                    <td>Lots</td>
+                </tr>
+                <tr>
+                    <td>Milk</td>
+                    <td>Enough</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Put the cofee grounds in the French press. You don't have a French press? Buy one.
+</p>
+
+        <p> <strong>Step 2:</strong> Pour 1-2 C room-temperature water over the grounds. Stir or slosh them around to make sure all of the grounds are mixed in to the water. Add the remaining water once you're sure there are no pockets of dried grounds.
+        </p>
+        
+        <p><strong>Step 3:</strong> Wait. For like, 8-12 hours, keeping the French press full of delicious future coffee at room temp.
+        </p>
+
+        <p>
+            <strong>Step 4:</strong> Gently and slowly depress the plunger on the French press. If you do it quickly, it'll spit coffee out the spout. It's actually really funny.
+        </p>
+        
+        <p>
+            <strong>Step 5:</strong> Pour the coffee into a glass. Add creamer and milk to taste. Enjoy!
+        </p>
+        
+    <p><em>Source: <a href="https://www.google.com/search?q=how+to+cook+an+egg&rlz=1C1CHBF_enUS906US906&oq=how+to+cook+an+egg&aqs=chrome..69i57j35i39j0l6.3063j0j7&sourceid=chrome&ie=UTF-8">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
