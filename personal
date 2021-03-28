@@ -5,13 +5,15 @@
   <style>
   body {
   font-family: serif;
-  background: #adafb3;
-  
+  background-color: #adafb3;
+  color: #edc42f;
   }
+  
 
 </head>
 
 <body>
+<h1>Beth May</h1>
 
 
 </body>
